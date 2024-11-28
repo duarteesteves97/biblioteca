@@ -6,7 +6,7 @@ def imprime_lista_de_livros(lista_de_livros):
     """Esta função vai imprimir uma lista de livros
 
     Args:
-        param1(list): Lista de Livros
+        lista_de_livros(list): Lista de Livros
 
     Returns:
          List: Retorna uma lista de livros
