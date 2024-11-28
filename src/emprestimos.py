@@ -17,9 +17,9 @@ def cria_novo_emprestimo(lista_de_leitores, lista_de_livros, lista_de_funcionari
     """ Pede ao utilizador para introduzir os dados de um novo emprestimo
 
         Args:
-            param1(list): lista de leitores
-            param2(list): lista de livros
-            param3(list): lista de funcionarios
+            lista_de_leitores(list): lista de leitores
+            lista_de_livros: lista de livros
+            lista_de_funcionarios(list): lista de funcionarios
 
 
         returns:
