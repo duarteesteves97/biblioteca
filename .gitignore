@@ -55,3 +55,5 @@ Thumbs.db
 # Backup files
 *.bak
 *~
+
+src/temp/
