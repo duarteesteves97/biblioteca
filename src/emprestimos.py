@@ -41,3 +41,12 @@ def cria_novo_emprestimo(lista_de_leitores, lista_de_livros, lista_de_funcionari
     }
 
     return emprestimo
+
+
+def imprime_lista_de_emprestimos(lista_de_emprestimos):
+    '''
+    Esta função imprime uma lista de emprestimos
+
+    '''
+    pass
+
