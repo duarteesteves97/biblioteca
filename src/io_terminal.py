@@ -7,7 +7,7 @@ from tabulate import tabulate
 # todos os outros ficheiros temp/io_terminal-*.py, e inclusive estes comentários
 
 
-    def imprime_lista(cabecalho, lista):
+def imprime_lista(cabecalho, lista):
         """Imprime a :attr:`lista` na forma de uma tabela com um cabeçalho
 
         Recebe uma lista na forma [{"atrib1": valor1, "atrib2": valor2, ...},
