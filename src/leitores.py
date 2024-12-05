@@ -9,3 +9,22 @@ nome_ficheiro_lista_de_leitores = "lista_de_leitores.pk"
 # todos os outros ficheiros temp/leitores-*.py, e inclusive estes comentários
 
 # ...
+def cria_novo_leitor():
+    """Pedir os dados de um novo leitor
+
+    :return: dicionario com o novo leitor, {"nome": <<nome>>, "nif": <<nif>>, ...}
+    """
+
+
+
+    pass
+
+
+def imprime_lista_de_leitores(lista_de_leitores):
+    '''
+    Imprimir lista e leitores
+
+    return: lista de leitores
+
+    '''
+    pass
