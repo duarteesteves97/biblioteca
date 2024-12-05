@@ -14,3 +14,10 @@ def imprime_lista_de_funcionarios(lista_de_funcionarios):
     '''
 
     imprime_lista(cabecalho="Lista de Funcionarios", lista=lista_de_funcionarios)
+
+def cria_novo_funcionario():
+    '''Pedir os dados de um novo funcionario
+
+    :return: dicionario com o novo funcionario, {"nome": <<nome>>, "nif": <<nif>>, ...}
+    '''
+    pass
